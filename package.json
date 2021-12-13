@@ -17,7 +17,7 @@
     "url": "git+https://github.com/peng-huang-cc/abi-decoder.git"
   },
   "keywords": [
-    "abi-decoder"
+    "abi-decoder",
     "typescript"
   ],
   "author": "peng-huang-cc",
